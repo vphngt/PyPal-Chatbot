@@ -589,7 +589,7 @@ TYPE A COMMAND:
 
    clear  — clear chat history
    help   — show instructions
-   quit   — exit the chatbot
+   exit   — exit the chatbot
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
@@ -773,7 +773,7 @@ def send(event=None):
     entry.delete(0, "end")
     q = raw.lower()
 
-    if q == "quit":
+    if q == "exit":
         root.destroy()
         return
     if q == "clear":
