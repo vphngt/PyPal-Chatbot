@@ -16,7 +16,7 @@ PyPal is a revision chatbot designed to help ICS4U students master Python concep
   |---------|-------------|
   | `help`  | Displays navigation instructions |
   | `clear` | Wipes the current chat history for a fresh start |
-  | `quit`  | Safely exits the application |
+  | `exit`  | Safely exits the application |
  
 - **Error Handling:** Displays a friendly *"keyword not found"* message to guide users back to supported topics.
 - **Regex Matching:** Uses Python's `re` module with `\b` anchors to catch partial inputs like `"bubble"` matching `"bubble sort"`, while preventing false matches.
