@@ -1,5 +1,5 @@
-# PyPal — Your Python Study Pal
-PyPal is a desktop-based revision chatbot designed to help ICS4U students master Python concepts. Built using Python's `tkinter` library, it acts as an interactive cheat sheet by providing instant definitions, logical overviews, and code examples for a wide range of topics taught in class, from basic data types to OOP principles.
+# PyPal - Your Python Study Pal
+PyPal is a revision chatbot designed to help ICS4U students master Python concepts. Built using Python's `tkinter` library, it acts as an interactive cheat sheet by providing instant definitions, logical overviews, and code examples for a wide range of topics taught in class, from basic data types to OOP principles.
  
 ## Project Overview
 ![pypal](pypal.png)
